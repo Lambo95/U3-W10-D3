@@ -6,8 +6,6 @@ import { RouterModule, Routes } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-const routes: Routes = [];
-
 @NgModule({
   declarations: [AppComponent],
   imports: [
